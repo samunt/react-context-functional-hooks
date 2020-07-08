@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/sammyunterman/.nvm/versions/node/v11.0.0/bin/node /usr/local/bin/yarnpkg add --exact react react-dom react-scripts --cwd /Users/sammyunterman/WebstormProjects/react-todo
+
+PATH: 
+  /Users/sammyunterman/.npm/_npx/50695/bin:/Users/sammyunterman/node_modules/.bin:{/emulator:/tools:/Users/sammyunterman/Library/Android/sdk/platform-tools:/Users/sammyunterman/.nvm/versions/node/v11.0.0/bin:/Users/sammyunterman/Desktop/work/finaeo-mobile//tools:/Users/sammyunterman/Desktop/work/finaeo-mobile//platform-tools:/Users/sammyunterman/.rvm/gems/ruby-2.3.0/bin:/Users/sammyunterman/.rvm/gems/ruby-2.3.0@global/bin:/Users/sammyunterman/.rvm/rubies/ruby-2.3.0/bin:/Applications/Postgres.app/Contents/Versions/9.6.2/bin:/Applications/Postgres.app/Contents/Versions/9.5/bin:/Users/sammyunterman/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Wireshark.app/Contents/MacOS:/Users/sammyunterman/.rvm/bin}:/sam/Android/android-sdk/sdk/tools/:/sam/Android/android-sdk/sdk/build-tools/28.0.1/
+
+Yarn version: 
+  0.24.6
+
+Node version: 
+  11.0.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "react-todo",
+    "version": "0.1.0",
+    "private": true
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: write EADDRNOTAVAIL
+      at WriteWrap.afterWrite [as oncomplete] (net.js:792:14)
